@@ -1,0 +1,284 @@
+    1  echo hello
+    2  ruby-v
+    3  ruby -v
+    4  cd Desktop
+    5  git config --global user.name Peter Doane
+    6  git config --global user.email peterdoane@gmail.com
+    7  git credential-osxkeychain
+    8  git config --global credential.helper osxkeychain
+    9  sudo mv git-credential-osxkeychain "$(dirname $(which git))/git-credential-osxkeychain"
+   10  sudo mv git-credential-osxkeychain "$(dirname $(which git))/git-credential-osxkeychain"
+   11  sudo mv git-credential-osxkeychain "$(dirname $(which git))/git-credential-osxkeychain"
+   12  sudo mv git-credential-osxkeychain "$(dirname $(which git))/git-credential-osxkeychain"
+   13  frithers
+   14  node
+   15  homebrew
+   16  brew
+   17  node
+   18  cd adventofcode/
+   19  ls
+   20  mv ../Advent\ of\ Code/day1.input.txt .
+   21  ls
+   22  node advent01.js 
+   23  node
+   24  node advent01.js 
+   25  node advent01.js 
+   26  node advent01.js 
+   27  eloqent.javascrpit.months
+   28  node
+   29  node eloqent.javascript.months 
+   30  node eloqent.javascript.months 
+   31  node eloqent.javascript.months 
+   32  node eloqent.javascript.months 
+   33  cd adventofcode/
+   34  ls
+   35  node advent02.js
+   36  node advent02.js
+   37  node advent02.js
+   38  node advent02.js
+   39  node advent02.js
+   40  node advent02.js
+   41  node advent02.js
+   42  node advent02.js
+   43  node fizzbuzz
+   44  cd fizzbuzz
+   45  node fizzbuzz
+   46  node fizzbuzz
+   47  node fizzbuzz
+   48  node.js
+   49  npm install -g node-inspector
+   50  sudo npm install -g node-inspector`
+   51  frithers
+   52  sudo npm install -g node-inspector
+   53  sudo npm install -g node-inspector
+   54  node-debug Cipher.js
+   55  cd desktop
+   56  node-debug Ordinal.js
+   57  node-debug Ordinal.js
+   58  node-debug Ordinal.js
+   59  node-debug Cipher.js
+   60  cd
+   61  node-debug Cipher.js
+   62  /Users/peterdoane node-debug Cipher.js
+   63  cd desktop Cipher.js
+   64  cd desktop
+   65  node-debug Cipher.js
+   66  node-debug Cipher.js
+   67  node-debug Cipher.js
+   68  (function (exports, require, module, __filename, __dirname) { function encode(string) {
+   69  var array =[];
+   70  var result;
+   71  var indexArray=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p',
+   72  'q','r','s','t','u','v','w','x','y','z'];
+   73  for (var i=0; i<string.length; i++) {
+   74  g.charAt(i);
+   75  umeric = indexArray.indexOf(result);
+   76  umeric +1);
+   77      }
+   78      return array;
+   79  }
+   80  console.log(encode('distinguish'));
+   81  function decode(numbers) {
+   82      var string='';
+   83      var result;
+   84      var indexArray=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p',
+   85  'q','r','s','t','u','v','w','x','y','z'];
+   86      for (var i=0; i<numbers.length; i++) {
+   87          result = numbers[i];
+   88          var numericAlpha = indexArray[i];
+   89          string+=(numericAlpha);
+   90  }
+   91      return string;
+   92  }
+   93  console.log(decode([23, 15, 18, 12, 4]));
+   94  node-debug Cipher.js
+   95  node-debug Cipher.js
+   96  node-debug Cipher.js
+   97  node-debug Cipher.js
+   98  node-debug Cipher.js
+   99  node-debug Cipher.js
+  100  node-debug Cipher.js
+  101  node-debug Cipher.js
+  102  node-debug Cipher.js
+  103  node-debug Cipher.js
+  104  node-debug Cipher.js
+  105  node-debug Cipher.js
+  106  cd desktop
+  107  node-debug encode.js
+  108  node-debug Ordinal.js
+  109  node-debug Ordinal.js
+  110  node-debug Ordinal.js
+  111  node-debug Ordinal.js
+  112  node-debug Ordinal.js
+  113  node-debug Ordinal.js
+  114  node-debug Ordinal.js
+  115  samp.c
+  116  cd desktop
+  117  samp.c
+  118  gcc samp.c-o samp
+  119  samp
+  120  make samp
+  121  make samp.c
+  122  node.js
+  123  node
+  124  cd desktop
+  125  node makeUpper.js
+  126  node.makeUpper.js
+  127  node makeUpper.js
+  128  makeUpper.js
+  129  node makeUpper.js
+  130  node makeUpper.js
+  131  node makeUpper.js
+  132  node.js
+  133  node
+  134  makeUpper.js
+  135  node makeUpper.js
+  136  makeUppercaseObject(abc);
+  137  node
+  138  node.js
+  139  node
+  140  node.js
+  141  node
+  142  node --debug match.js
+  143  node --debug match.js
+  144  node --debug match.js
+  145  node --debug match.js
+  146  node --debug match.js
+  147  node --debug match.js
+  148  node --debug match.js
+  149  node --debug match.js
+  150  node --debug-brk code.js
+  151  > node --debug-brk code.js
+  152  > node --debug-brk code.js
+  153  cd desktop
+  154  node --debug-brk match.js
+  155  node --debug-brk match.js
+  156  node --debug match.js
+  157  desktop
+  158  cd desktop
+  159  node --debug match.js
+  160  node --debug match.js
+  161  node --debug match.js
+  162  node --debug match.js
+  163  node --debug match.js
+  164  node --debug match.js
+  165  node --debug match.js
+  166  npm install node-inspector
+  167  node --debug match.js
+  168  node --debug match.js
+  169  node --debug match.js
+  170  node --debug match.js
+  171  node --debug match.js
+  172  node --debug match.js
+  173  node --debug match.js
+  174  cd downloads
+  175  cd download
+  176  node --debug match.js
+  177  node --debug match.js
+  178  Node Inspector v0.10.0
+  179  Node Inspector v0.10.0
+  180  node
+  181  node-inspector
+  182  node-inspector mystery.js
+  183  node-inspector mystery.js
+  184  node-inspector mystery.js
+  185  node-inspector mystery.js
+  186  cd desktop
+  187  node-inpspector mystery.js
+  188  node-inspector mystery.js
+  189  $ node-debug mystery.js
+  190  node-debug mystery.js
+  191  node-debug mystery.js
+  192  node-debug mystery.js
+  193  node-debug mystery.js
+  194  node-debug mystery.js
+  195  node-inpsector mystery.js
+  196  node
+  197  Web Inspector
+  198  import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
+  199  node
+  200  cd desktop
+  201  node-inpector mystery.js
+  202  node-inspector mystery.js
+  203  Package Control.sublime-package
+  204  sublime text
+  205  node-inspector
+  206  node-debug mystery.js
+  207  cd desktop
+  208  node-debug mystery.js
+  209  node-debuy -p mystery.js
+  210  node-debut -p mystery.js
+  211  node-debug -p mystery.js
+  212  node-debug -p mystery.js
+  213  node-debug mystery.js
+  214  node-debug mystery.js
+  215  node-debug mystery.js
+  216  node-debug mystery.js
+  217  node-debug mystery.js
+  218  node-debug mystery.js
+  219  cd desktop
+  220  node-debuy mystery2.js
+  221  node-debug mystery2.js
+  222  node-debug mystery2.js
+  223  cd desktop
+  224  node-debug mystery2.js
+  225  (5)math.floor
+  226  math.floor(5)
+  227  node
+  228  node
+  229  node-debug longestword22.js
+  230  node-debug longestword22.js
+  231  which brew
+  232  witch brew
+  233  witchbrew
+  234  whichbrew
+  235  which brew
+  236  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+  237  which brew
+  238  brew update
+  239  pwd
+  240  cd
+  241  cd /
+  242  directory
+  243  pwd
+  244  ls
+  245  cd Applications
+  246  pwd
+  247  ls
+  248  cd Sublime\ Text.app/Contents/
+  249  pwd
+  250  ls
+  251  cd resources
+  252  ls
+  253  cd ..
+  254  treetree -L 2`
+
+
+  255  tree -L 2`
+
+  256  tree - L 2
+  257  trre -L 2
+  258  tree -L 2
+  259  brew install tree
+  260  tree -L 2
+  261  tree -L 2 | ls
+  262  tree -L 2 | less
+  263  tree
+  264  tree | less
+  265  cd /
+  266  /
+  267  cd ~
+  268  pwd
+  269  cd ..
+  270  cd ..
+  271  cd ..
+  272  cd
+  273  touch history.txt
+  274  ls
+  275  ls -L
+  276  ls -l
+  277  history
+  278  history | less
+  279  history | less
+  280  history > history.txt
