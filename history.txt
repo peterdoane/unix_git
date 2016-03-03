@@ -228,57 +228,170 @@
   228  node
   229  node-debug longestword22.js
   230  node-debug longestword22.js
-  231  which brew
-  232  witch brew
-  233  witchbrew
-  234  whichbrew
-  235  which brew
-  236  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+  231  git
+  232  git --version
+  233  which brew
+  234  witch brew
+  235  witchbrew
+  236  whichbrew
   237  which brew
-  238  brew update
-  239  pwd
-  240  cd
-  241  cd /
-  242  directory
-  243  pwd
-  244  ls
-  245  cd Applications
+  238  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+  239  ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+  240  which brew
+  241  brew update
+  242  pwd
+  243  cd
+  244  cd /
+  245  directory
   246  pwd
   247  ls
-  248  cd Sublime\ Text.app/Contents/
+  248  cd Applications
   249  pwd
   250  ls
-  251  cd resources
-  252  ls
-  253  cd ..
-  254  treetree -L 2`
+  251  cd Sublime\ Text.app/Contents/
+  252  pwd
+  253  ls
+  254  cd resources
+  255  ls
+  256  cd ..
+  257  treetree -L 2`
+  258  tree -L 2`
+  259  tree - L 2
+  260  trre -L 2
+  261  tree -L 2
+
+  #'brew' uses homebrew to install file
+  262  brew install tree
+  263  tree -L 2
+  264  tree -L 2 | ls
+  
+  #'-L 2' prints directory two levels deep
+  265  tree -L 2 | less
+  266  tree
+  
+  # 'tree' prints a tree of the current directory. '| less' pipes tree to a pager 
+  267  tree | less
+  
+  # 'cd /' takes you to the root directory 
+  268  cd /
+  269  /
+  
+  # cd~ takes you back to the home directory
+  270  cd ~
+  
+  #pwd prints workng directories contents
+  271  pwd
+  
+  272  cd ..
+  273  cd ..
+  
+  # 'cd..'  takes you to the directory above.
+  274  cd ..
+  
+  # 'cd' by itself takes you back to the home directory
+  275  cd
+
+  #'touch' creates an empty file called history.txt in the current directory. 
+  276  touch history.txt
+  
+  277  ls
+  278  ls -L
+  279  ls -l
+  280  history
+  281  history | less
+  282  history | less
+  283  history > history.txt
+  284  ls -l
+  285  cat history.txt
+  286  cat history.txt
+  287  ls
+  288  cd adventofcode
+  289  ls -l
+  290  cat 'for (var i=0; i<100; i++) {' 
+  291  cat fizzbuzz
+  292  cat eloqent.javascript.months 
+  
+  # 'cat' dumps the contents of the file (catenates it) to the terminal
+  293  cat day1.input.txt 
 
 
-  255  tree -L 2`
+  # 'which' tries to find the given command anywhere in your path. Prints path if it #finds it
+  294  which subl
 
-  256  tree - L 2
-  257  trre -L 2
-  258  tree -L 2
-  259  brew install tree
-  260  tree -L 2
-  261  tree -L 2 | ls
-  262  tree -L 2 | less
-  263  tree
-  264  tree | less
-  265  cd /
-  266  /
-  267  cd ~
-  268  pwd
-  269  cd ..
-  270  cd ..
-  271  cd ..
-  272  cd
-  273  touch history.txt
-  274  ls
-  275  ls -L
-  276  ls -l
-  277  history
-  278  history | less
-  279  history | less
-  280  history > history.txt
+  # 'sudo' do something as super user.. 'ln -s' creates a symbolic link or file shortcut
+  295  sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/
+  
+  296  sudo ln -s /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  297  which subl
+  298  cd history.txt
+  299  /
+  300  cd
+  301  subl history.txt
+
+  # 'mkdir' creates directory on computer
+  302  mkdir unix_notes
+  303  ls
+  304  ls -l
+  305  cd unix_notes
+  306  ls -l
+  307  ls
+  308  subl unix_notes
+  309  pwd
+  310  ls
+  311  ls -l
+  312  ls
+  313  cd ..
+  314  mv history.txt unix_notes/
+  315  ls
+  316  ls -l
+  317  unix_notes
+  318  cd unix_notes
+
+  # ls-l is a flag or switch which disploys long-form details or information
+  319  ls -l
+
+  #init creates new local repo in the current directory
+  320  git init 
+
+  # 'status' shows the working tree status
+  321  git status
+
+  #'git remote' link a GitHub remote repo to the current local repo and call it orign
+  322  git remote add origin https://github.com/peterdoane/unix_git.git
+  
+  323  git add history.txt
+  324  git status
+  325  git commit -m 'add new history.txt file' 
+  326  git staturs
+  327  git status
+
+  # 'git push' commits from local repo on laptop to github remote repo
+  328  git push origin master
+  329  subl history.txt
+  330  cd desktop
+  331  subl history.txgt
+  332  ls
+  333  cd downloads
+  334  ls | less
+  335  cd unix notes
+  336  ls
+
+  # 'subl'  opens history.txt in sublime text
+  337  subl history.txt
+  338  cd
+  339  ls | less
+  340  subl history.txt
+  341  cd
+  342  ls | less
+  343  cd unixnotes
+
+  # cd changes directory to unix_notes
+  344  cd unix_notes
+  
+  # ls shows list of what is in the directory '|' and 'less' pipe list into a pager
+  345  ls | less
+  
+  346  subl history.txt
+
+  # '>' redirects history and saves it to history.txt
+  348  history > history.txt
